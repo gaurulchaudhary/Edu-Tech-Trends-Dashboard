@@ -7,7 +7,7 @@ Subtitles Drive Viewership: Increasing the number of subtitles available for vid
 Duration and Viewership: There is no strong correlation between video duration and viewership. The quality and relevance of content seem to be more influential factors.
 Skill-Rich Categories Have Longer Durations: Categories offering a higher number of skills tend to have longer videos, suggesting that comprehensive skill development requires more in-depth learning.
 
-**Business Suggestions**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Business Suggestions**--------------------------------------------------------------------------------------------------
 
 **Data Science Focus:**
 
